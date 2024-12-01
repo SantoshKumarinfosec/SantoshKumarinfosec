@@ -11,16 +11,25 @@
 </div>
 
 
+
 <div align="center">
   <h2>🌐 Connect with Me</h2>
-  <a href="[https://github.com/SantoshKumarinfosec" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
-  </a>
-  
-  <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsantoshkumarpro%2F&sa=D" target="_blank">
+  <a href="https://www.linkedin.com/in/santoshkumarpro" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
   </a>
- 
+  
+  <a href="mailto:santoshkumar.infosec@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail Me" width="50" height="50">
+  </a>
+
+  <a href="https://wa.me/918587092480" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="50" height="50">
+  </a>
+  
+  <a href="https://facebook.com/shub005" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="50" height="50">
+  </a>
+
   <a href="https://twitter.com/shub005" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="50" height="50">
   </a>
@@ -29,28 +38,15 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50">
   </a>
   
-  <a href="https://facebook.com/shub005" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="50" height="50">
-  </a>
-  
   <a href="https://studio.youtube.com/channel/UCjqLyUWIl7XTb4GFKHbwsow" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" height="50">
   </a>
- 
-  <a href="https://wa.me/918587092480" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="50" height="50">
+  
+  <a href="[https://github.com/SantoshKumarinfosec" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
   </a>
   
 </div>
-
-<div align="center">
-  <p>
-    <a href="mailto:santoshkumar.infosec@gmail.com" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail Me" width="50" height="50">
-    </a>
-  </p>
-</div>
-
 
 
 <div align="left">
@@ -77,6 +73,17 @@
   <p>📜 <strong>GRC Excellence:</strong> Aligned security with legal and organizational standards through Governance, Risk, and Compliance programs.</li>
   <p>🎤 <strong>Global Speaker and Thought Leader:</strong> Invited speaker at global forums like DSCI, ARAI, BIS, and IEEE.</p>
 </div>
+
+<div align="center">
+  <h2>📄 My Resume</h2>
+  <p>You can view or download my resume by clicking the link below:</p>
+  <a href="https://drive.google.com/file/d/1_zpH8kzjwlL_OM9Y8H0Ui5o6MmCM8QAq/view?usp=sharing" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #0073e6; color: white; border: none; border-radius: 5px;">
+      View My Resume
+    </button>
+  </a>
+</div>
+
 
 <div align="left">
   <h2>🌱 I’m Currently Learning</h3>
