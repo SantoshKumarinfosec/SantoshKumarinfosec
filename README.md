@@ -3,6 +3,42 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarinfosec&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarinfosec" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshkumarinfosec" alt="santoshkumarinfosec" /></a> </p>
 <p align="left"> <a href="https://twitter.com/shub005" target="blank"><img src="https://img.shields.io/twitter/follow/shub005?logo=twitter&style=for-the-badge" alt="shub005" /></a> </p>
+
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <a href="[https://github.com/SantoshKumarinfosec/tree/main" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://twitter.com/shub005" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="50" height="50">
+  </a>
+  <a href="https://www.instagram.com/shub005/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50">
+  </a>
+  <a href="https://facebook.com/shub005" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="50" height="50">
+  </a>
+  <a href="https://youtube.com/shub005" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" height="50">
+  </a>
+  <a href="https://wa.me/8587092480" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="50" height="50">
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    <a href="mailto:santoshkumar.infosec@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail Me" width="50" height="50">
+    </a>
+  </p>
+</div>
+
+
+
 <div align="left">
   <h2>🔑 Key Competencies and Skills</h2>
   <p>🔒 <strong>Cybersecurity:</strong> Expertise in designing advanced security architectures and chip-to-cloud, end-to-end cybersecurity solutions across the product lifecycle, encompassing development, operations, and decommissioning.</p>
@@ -27,10 +63,158 @@
   <p>📜 <strong>GRC Excellence:</strong> Aligned security with legal and organizational standards through Governance, Risk, and Compliance programs.</li>
   <p>🎤 <strong>Global Speaker and Thought Leader:</strong> Invited speaker at global forums like DSCI, ARAI, BIS, and IEEE.</p>
 </div>
------------------------------------------------------------------------------------------
+
 <div align="left">
-  <p>🌱 <strong>I’m currently learning Machine Learning Algorithms for Anomaly Detection in Automotive CAN Databus:</strong></p>
-  <p><em>Development and implementation of advanced machine learning algorithms to identify anomalies in Controller Area Network (CAN) data streams within automotive systems. Techniques include unsupervised learning approaches (e.g., Autoencoders, Isolation Forest, and k-Means clustering) and supervised methods (e.g., Random Forest, Support Vector Machines, and Neural Networks) for detecting irregularities in CAN traffic. Leveraged time-series analysis, feature extraction, and real-time data classification to identify deviations indicative of potential security threats or system malfunctions, ensuring robust vehicular cybersecurity and operational reliability.</em></p>
+  <h2>🌱 I’m Currently Learning</h3>
+  <p><strong>Machine Learning Algorithms for Anomaly Detection in Automotive CAN Databus:</strong></p>
+  <p>
+    Development and implementation of advanced machine learning algorithms to identify anomalies in 
+    <a href="https://en.wikipedia.org/wiki/Controller_Area_Network" target="_blank">Controller Area Network (CAN)</a> data streams within automotive systems. Techniques include:
+  </p>
+  <ul>
+    <li>Unsupervised learning approaches such as 
+      <a href="https://en.wikipedia.org/wiki/Autoencoder" target="_blank">Autoencoders</a>, 
+      <a href="https://scikit-learn.org/stable/auto_examples/ensemble/plot_isolation_forest.html" target="_blank">Isolation Forest</a>, and 
+      <a href="https://en.wikipedia.org/wiki/K-means_clustering" target="_blank">k-Means clustering</a>.
+    </li>
+    <li>Supervised methods including 
+      <a href="https://en.wikipedia.org/wiki/Random_forest" target="_blank">Random Forest</a>, 
+      <a href="https://en.wikipedia.org/wiki/Support-vector_machine" target="_blank">Support Vector Machines</a>, and 
+      <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">Neural Networks</a>.
+    </li>
+  </ul>
+  <p>
+    Leveraged techniques like 
+    <a href="https://en.wikipedia.org/wiki/Time_series" target="_blank">time-series analysis</a>, feature extraction, and real-time data classification to identify deviations indicative of potential security threats or system malfunctions, ensuring robust vehicular cybersecurity and operational reliability.
+  </p>
+</div>
+
+<div align="left">
+  <h2>🎓 Education & Alumnus</h2>
+  <ul>
+    <li>
+      <strong>PhD (Cyber Security) Scholar</strong><br>
+      <a href="https://iitj.ac.in/" target="_blank">Indian Institute of Technology (IIT Jodhpur)</a> | 2021
+    </li>
+    <li>
+      <strong>MTech (Communication)</strong><br>
+      <a href="https://www.iitm.ac.in/" target="_blank">Indian Institute of Technology (IIT Madras)</a> | 2007
+    </li>
+    <li>
+      <strong>PG Diploma in Data Science</strong><br>
+      <a href="https://www.iiitb.ac.in/" target="_blank">International Institute of Information Technology (IIIT Bangalore)</a> | 2019
+    </li>
+    <li>
+      <strong>PG Diploma in Cyber Law & Cyber Forensics</strong><br>
+      <a href="https://www.nls.ac.in/" target="_blank">National Law School of India University (NLSIU Bangalore)</a> | 2020
+    </li>
+    <li>
+      <strong>PG Diploma in Business Management</strong><br>
+      <a href="https://www.iimidr.ac.in/" target="_blank">Indian Institute of Management (IIM Indore)</a> | 2019
+    </li>
+    <li>
+      <strong>Elevate-Bosch Leadership Development Program</strong><br>
+      <a href="https://www.isb.edu/" target="_blank">Indian School of Business (ISB Hyderabad)</a> | 2021
+    </li>
+  </ul>
+</div>
+
+
+<div align="left">
+  <h2>Certifications</h2>
+  
+  <h3>Cybersecurity</h3>
+  <ul>
+    <li><a href="https://www.isc2.org/Certifications/CISSP" target="_blank">Certified Information Systems Security Professional (CISSP)</a> | ISC2</li>
+    <li><a href="https://www.isaca.org/credentialing/cisa" target="_blank">Certified Information Systems Auditor (CISA)</a> | ISACA</li>
+    <li><a href="https://www.eccouncil.org/programs/computer-hacking-forensic-investigator-chfi/" target="_blank">Computer Hacking Forensic Investigator (CHFI)</a> | EC-Council</li>
+    <li><a href="https://www.eccouncil.org/programs/certified-soc-analyst-csa/" target="_blank">Certified SOC Analyst (CSA)</a> | EC-Council</li>
+    <li><a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/" target="_blank">Certified Ethical Hacking (CEH)</a> | EC-Council</li>
+  </ul>
+
+  <h3>Information Privacy</h3>
+  <ul>
+    <li><a href="https://iapp.org/certify/cipm/" target="_blank">Certified Information Privacy Manager (CIPM)</a> | IAPP</li>
+    <li><a href="https://iapp.org/certify/cippe/" target="_blank">Certified Information Privacy Professional (CIPP/E)</a> | IAPP</li>
+  </ul>
+
+  <h3>Project Management</h3>
+  <ul>
+    <li><a href="https://www.pmi.org/certifications/project-management-pmp" target="_blank">PMI Project Management Professional (PMP)</a> | PMI</li>
+    <li><a href="https://www.pmi.org/certifications/agile-certifications/disciplined-agile-scrum-master" target="_blank">PMI Disciplined Agile Scrum Master</a> | PMI</li>
+  </ul>
+
+  <h3>Cloud</h3>
+  <ul>
+    <li><a href="https://aws.amazon.com/certification/certified-security-specialty/" target="_blank">AWS Certified Security-Specialty</a> & <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">AWS Solution Architect Associate</a> | AWS</li>
+  </ul>
+
+  <h3>Cybersecurity Management System (CSMS)</h3>
+  <ul>
+    <li><a href="https://www.gsdccertifications.com/iso-27001-2022-information-security-management-systems-auditor-certification/" target="_blank">ISO 27001:2022: Information Security Management Systems Auditor</a> | GSDC</li>
+    <li><a href="https://www.gsdccertifications.com/iso-22301-2019-business-continuity-management-systems-auditor-certification/" target="_blank">ISO 22301:2019: Business Continuity Management Systems Auditor</a> | GSDC</li>
+    <li><a href="https://www.gsdccertifications.com/iso-20000-it-service-management-systems-certification/" target="_blank">ISO 20000:2018: IT Service Management Systems Auditor</a> | GSDC</li>
+  </ul>
+
+  <h3>Automotive Security</h3>
+  <ul>
+    <li><a href="https://www.tuv.com/world/en/automotive-cyber-security-practitioner-cacsp/" target="_blank">CACSP (Certified Automotive Cyber Security Practitioner) as per ISO/SAE 21434</a> | TUV</li>
+    <li><a href="https://www.vector.com/int/en/training/courses/iso-21434/" target="_blank">ISO 21432:2021: Road Vehicle Cyber Security</a> | Vector</li>
+  </ul>
+
+  <h3>Quantum Computing</h3>
+  <ul>
+    <li><a href="https://quantum-computing.ibm.com/" target="_blank">IBM Quantum-Safe Cryptography</a>, <a href="https://www.ibm.com/quantum" target="_blank">IBM Quantum Information</a>, Algorithm Design: QC | IBM</li>
+  </ul>
+
+  <h3>Information Technology & Financial</h3>
+  <ul>
+    <li><a href="https://nipun-iot.com/" target="_blank">IoT Practitioner</a> | NIPUN</li>
+    <li><a href="https://arcstone.com/" target="_blank">Industry 4.0</a> | ARCSTONE</li>
+    <li><a href="https://www.axelos.com/certifications/itil-service-management" target="_blank">IT Information Library Foundations Certification (ITIL)</a> | AXELOS</li>
+    <li><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">Cisco Certified Network Associate (CCNA R&S)</a> | CISCO</li>
+    <li><a href="https://home.kpmg/xx/en/home.html" target="_blank">Six Sigma Green Belt</a> | KPMG</li>
+    <li><a href="https://beeindia.gov.in/" target="_blank">Certified Energy Manager (CEM)</a> | Bureau of Energy Efficiency (BEE)</li>
+    <li><a href="https://www.nseindia.com/education/nse-academy-certifications-financial-markets-ncfm" target="_blank">NSE Academy Certification in Financial Markets</a> | NSE</li>
+  </ul>
+</div>
+
+<div align="left">
+  <h2>📚 Publications</h2>
+  <p>Published influential papers in IEEE Journals/Conferences, focusing on IT Technology, Cybersecurity, Cloud Security, IDS/IPS, and Data Privacy.</p>
+  
+  <ul>
+    <li>
+      <a href="https://ieeexplore.ieee.org/document/10007166" target="_blank">
+        <strong>Study on Smart Security Measures in Threat and Risk Assessment</strong>
+      </a>
+      <p>SEP, more specifically Security Engineering Process, forms a part of the modern assessment and evaluation of related threats and risks. This paper compares various standardized threat and risk assessment techniques with respect to dynamic threats and possible risk mitigations.</p>
+    </li>
+    <li>
+      <a href="https://ieeexplore.ieee.org/document/10007263" target="_blank">
+        <strong>Security Risk Assessment & Mitigation Framework for Cloud-based IT Systems</strong>
+      </a>
+      <p>Proposes a Cloud-based IT Systems Security Risk Assessment & Mitigation Framework (CISSRAMF) that is cloud service provider agnostic and spans the entire lifecycle of cloud systems, integrating ISO, NIST, and OWASP standards.</p>
+    </li>
+    <li>
+      <a href="https://ieeexplore.ieee.org/document/10063186" target="_blank">
+        <strong>Improved Security and Privacy in Cloud Data Security and Privacy: Measures and Attacks</strong>
+      </a>
+      <p>Analyzes vulnerabilities and risks in cloud environments, focusing on issues like data modification, loss, and theft. Highlights the CIA triad—Confidentiality, Integrity, and Availability—in cloud security.</p>
+    </li>
+    <li>
+      <a href="https://ieeexplore.ieee.org/document/9844365" target="_blank">
+        <strong>An Analysis of Vulnerability Scanners in Web Applications for VAPT</strong>
+      </a>
+      <p>Examines tools used in Vulnerability Analysis and Penetration Testing (VAPT) for web applications, emphasizing their impact at various stages of penetration testing to counter modern threats.</p>
+    </li>
+    <li>
+      <a href="https://ymerdigital.com/uploads/YMER210604.pdf" target="_blank">
+        <strong>Modeling Real Time Object Identification Performance Evaluation with YOLO</strong>
+      </a>
+      <p>Focuses on real-time object recognition using YOLO, discussing advances in object detection and identification for applications like facial recognition and illness diagnosis in dynamic environments.</p>
+    </li>
+  </ul>
 </div>
 
 🤝 Programming Skills and Tool Development [Proficient in Python, C/C++, Java, and adhering to security standards like OWASP, CERT, and MISRA. Pioneered the development of advanced Vulnerability Management and Threat Intelligence tools for secure operations.](pro2)
