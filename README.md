@@ -216,6 +216,103 @@
   </ul>
 </div>
 
+<div align="left">
+  <h2>📄 Blog Posts</h2>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cybersecurity-softwaresecurity-mitre-activity-7266287991831031808-6PJO?utm_source=share&utm_medium=member_desktop" target="_blank">
+        MITRE Reveals the 25 Most Dangerous Software Vulnerabilities
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_your-voice-matters-the-draft-telecommunications-activity-7266074906822356992-1g05?utm_source=share&utm_medium=member_desktop" target="_blank">
+        The Draft Telecommunications (Telecom Cyber Security) Rules, 2024
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cybersecurity-pentesting-threatintelligence-activity-7263216140217126913-ezOz?utm_source=share&utm_medium=member_desktop" target="_blank">
+        The Essential Search Engines for Pentesters and Cybersecurity Professionals
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_ai-llm-openai-activity-7257008824228696064-YtxY?utm_source=share&utm_medium=member_desktop" target="_blank">
+        The Battle of Large Language Model (LLMs)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cyberresilience-iotsecurity-cybersecurity-activity-7255246059449266176-MV9o?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Cyber Resilience Act: A New Benchmark for Secure Digital Products in the EU
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cyber-resilience-act-council-adopts-new-activity-7250196066862514176-O5AZ?utm_source=share&utm_medium=member_desktop" target="_blank">
+        New Cyber Resilience Act Adopted by the EU Council
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cybersecurity-cyberwarfare-geopolitics-activity-7243302057116401664-9ONy?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Cybersecurity in Conflict Zones: The Hezbollah Pager Attack
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_euaiact-airegulation-artificialintelligence-activity-7240700601968312320-A7h1?utm_source=share&utm_medium=member_desktop" target="_blank">
+        The EU Artificial Intelligence Act: Navigating the Future of AI Regulation
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cybersecurity-siem-edr-ugcPost-7228302026743422976-U49t?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Defensive Security: The Role of SIEM, EDR, and Firewalls in Modern Defense
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_quantumcomputing-cybersecurity-cryptography-activity-7229506932703707137-bxxN?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Future-Proofing Security: An In-Depth Examination of NIST's Quantum-Resistant FIPS Standards
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_semiconductors-cybersecurity-automotiveinnovation-activity-7224273027671150592-eBgI?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Global Semiconductor Industry and Cybersecurity Challenges in the Automotive Sector: A Future Outlook
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_sdvs-cybersecurity-automotiveinnovation-activity-7222539181552541697-bCSw?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Software Defined Vehicles (SDVs)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_automotiveindustry-cybersecurity-postquantumcryptography-activity-7222130179635077120-V3fg?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Embracing the Future: The Vital Role of Post-Quantum Cryptography in Automotive Security
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_healthcaretech-iotsecurity-ncoe-activity-7201621266989015040-u4oz?utm_source=share&utm_medium=member_desktop" target="_blank">
+        IoT in Healthcare
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_cybersecurity-ukraine-russia-activity-7188460020999630849-nlCI?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Exploring the Cyber Battlefield: Ukrainian-Russian Conflict in the Cybersecurity Realm
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_worldhealthday-healthcaretechnology-cybersecurity-ugcPost-7182742302715518976-LCIw?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Securing Healthcare: The Crucial Role of Cybersecurity in Safeguarding Patient Data and Medical Devices
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_automotive-cybersecurity-automotivecybersecurity-activity-7143878022897491968-vke_?utm_source=share&utm_medium=member_desktop" target="_blank">
+        Embracing the Automotive Revolution of 2023
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/santoshkumarpro_activity-7100436134916202496-2p8d?utm_source=share&utm_medium=member_desktop" target="_blank">
+        State Responsibilities in Data Protection: A Comparative Analysis
+      </a>
+    </li>
+  </ul>
+</div>
+
+
 🤝 Programming Skills and Tool Development [Proficient in Python, C/C++, Java, and adhering to security standards like OWASP, CERT, and MISRA. Pioneered the development of advanced Vulnerability Management and Threat Intelligence tools for secure operations.](pro2)
 
 - 👨‍💻 All of my projects are available at [as](as)
