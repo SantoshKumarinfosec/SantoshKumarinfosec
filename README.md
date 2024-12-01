@@ -42,7 +42,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" height="50">
   </a>
   
-  <a href="[https://github.com/SantoshKumarinfosec" target="_blank">
+  <a href="https://github.com/SantoshKumarinfosec" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
   </a>
   
