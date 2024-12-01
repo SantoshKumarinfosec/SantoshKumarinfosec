@@ -16,21 +16,27 @@
   <a href="[https://github.com/SantoshKumarinfosec" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
   </a>
+  
   <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsantoshkumarpro%2F&sa=D" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
   </a>
+ 
   <a href="https://twitter.com/shub005" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="50" height="50">
   </a>
+  
   <a href="https://www.instagram.com/santoshkumar05071976/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50">
   </a>
+  
   <a href="https://facebook.com/shub005" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="50" height="50">
   </a>
+  
   <a href="https://studio.youtube.com/channel/UCjqLyUWIl7XTb4GFKHbwsow" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" height="50">
   </a>
+ 
   <a href="https://wa.me/918587092480" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="50" height="50">
   </a>
