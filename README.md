@@ -1,32 +1,31 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
 <h3 align="center">Cybersecurity and Privacy</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarinfosec&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarinfosec" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshkumarinfosec" alt="santoshkumarinfosec" /></a> </p>
-<p align="left"> <a href="https://twitter.com/shub005" target="blank"><img src="https://img.shields.io/twitter/follow/shub005?logo=twitter&style=for-the-badge" alt="shub005" /></a> </p>
+
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
-  <a href="[https://github.com/SantoshKumarinfosec/tree/main" target="_blank">
+  <a href="[https://github.com/SantoshKumarinfosec" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsantoshkumarpro%2F&sa=D" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50">
   </a>
   <a href="https://twitter.com/shub005" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="50" height="50">
   </a>
-  <a href="https://www.instagram.com/shub005/" target="_blank">
+  <a href="https://www.instagram.com/santoshkumar05071976/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50">
   </a>
   <a href="https://facebook.com/shub005" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="50" height="50">
   </a>
-  <a href="https://youtube.com/shub005" target="_blank">
+  <a href="https://studio.youtube.com/channel/UCjqLyUWIl7XTb4GFKHbwsow" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" height="50">
   </a>
-  <a href="https://wa.me/8587092480" target="_blank">
+  <a href="https://wa.me/918587092480" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="50" height="50">
   </a>
+  
 </div>
 
 <div align="center">
@@ -228,6 +227,8 @@
 - 📫 How to reach me **08587092480**
 
 - 📄 Know about my experiences [as](as)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarinfosec&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarinfosec" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
