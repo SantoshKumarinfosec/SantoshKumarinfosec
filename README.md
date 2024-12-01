@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<h3 align="center">Cybersecurity and Privacy</h3>
+<h2 align="center">Cybersecurity and Privacy</h2>
+
+<div align="center">
+  <blockquote>
+    <p style="font-style: italic; font-size: 1.2em; line-height: 1.6;">
+      "You can't have privacy without security, and you can't have security without privacy."
+    </p>
+    <p>– Bruce Schneier</p>
+  </blockquote>
+</div>
 
 
 <div align="center">
