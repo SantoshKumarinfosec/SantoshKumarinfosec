@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<h2 align="center">Cybersecurity and Privacy</h2>
+<h2 align="center"><strong>Cybersecurity and Privacy Expert</strong></h2>
 
 <div align="center">
   <blockquote>
@@ -327,24 +327,29 @@
   </ul>
 </div>
 
+<div align="left">
+  <h2>🏆 Awards and Affiliations</h2>
+  <ul>
+    <li>
+      <strong>Fellow of Information Privacy (FIP):</strong> Recognized for exceptional contributions and advancing the field of information privacy.
+    </li>
+    <li>
+      <strong>Outstanding Leadership Award 2023:</strong> Recognized for exemplary leadership, spearheading initiatives, and inspiring excellence at Bosch.
+    </li>
+    <li>
+      <strong>Invited Speaker:</strong> Featured at prestigious forums including DSCI, ARAI, BIS, and IEEE conferences.
+    </li>
+    <li>
+      <strong>Advisor to Bosch India:</strong> Provided strategic expertise on Privacy Enhancing Technologies (PET) and Post-Quantum Cryptography (PQC).
+    </li>
+    <li>
+      <strong>ISO/SAE 21434 Lead Assessor:</strong> Certified Lead Assessor at Bosch for ISO/SAE 21434:2021 (Road Vehicles Cybersecurity Engineering).
+    </li>
+  </ul>
+</div>
 
-🤝 Programming Skills and Tool Development [Proficient in Python, C/C++, Java, and adhering to security standards like OWASP, CERT, and MISRA. Pioneered the development of advanced Vulnerability Management and Threat Intelligence tools for secure operations.](pro2)
 
-- 👨‍💻 All of my projects are available at [as](as)
 
-- 📝 I regularly write articles on [ad](ad)
-
-- 💬 Ask me about **abc**
-
-- 📫 How to reach me **08587092480**
-
-- 📄 Know about my experiences [as](as)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarinfosec&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarinfosec" /> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -378,9 +383,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shub005"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shub005" /></a><a href="https://ko-fi.com/shub005"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shub005" /></a></p><br><br>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshkumarinfosec&show_icons=true&locale=en&layout=compact" alt="santoshkumarinfosec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshkumarinfosec&show_icons=true&locale=en" alt="santoshkumarinfosec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumarinfosec&" alt="santoshkumarinfosec" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkumarinfosec&label=Profile%20views&color=0e75b6&style=flat" alt="santoshkumarinfosec" /> </p> -->
