@@ -79,7 +79,7 @@
 <div align="center">
   <h2>📄 My Resume</h2>
   <p>You can view or download my resume by clicking the link below:</p>
-  <a href="[https://drive.google.com/file/d/1_zpH8kzjwlL_OM9Y8H0Ui5o6MmCM8QAq/view?usp=sharing" target="_blank](https://drive.google.com/file/d/1Pn-TNXwxxaGcBQVzGjREigktFYaAor9I/view)">
+  <a href="https://drive.google.com/file/d/1Pn-TNXwxxaGcBQVzGjREigktFYaAor9I/view" target="_blank"
     <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #0073e6; color: white; border: none; border-radius: 5px;">
       View My Resume
     </button>
