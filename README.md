@@ -1,4 +1,4 @@
-<img src="https://github.com/SantoshKumarinfosec/Images/blob/e24ab9e38b512f4a70e2d50849246eba5b7c1f19/Githu.png" alt="Profile Picture" width="1500">
+<img src="https://github.com/SantoshKumarinfosec/Images/blob/e24ab9e38b512f4a70e2d50849246eba5b7c1f19/Github.png" alt="Profile Picture" width="1500">
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
 <h2 align="center"><strong>Cybersecurity and Privacy Expert</strong></h2>
