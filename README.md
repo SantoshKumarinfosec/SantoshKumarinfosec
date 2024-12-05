@@ -349,7 +349,7 @@
       <strong>Invited Speaker:</strong> Featured at prestigious forums including DSCI, ARAI, BIS, and IEEE conferences.
     </li>
     <li>
-      <strong>Advisor to Bosch India:</strong> Provided strategic expertise on Privacy Enhancing Technologies (PET) and Post-Quantum Cryptography (PQC).
+      <strong>Advisor to Bosch India:</strong> Provided strategic expertise on Privacy Enhancing Technologies (PET).
     </li>
     <li>
       <strong>ISO/SAE 21434 Lead Assessor:</strong> Certified Lead Assessor at Bosch for ISO/SAE 21434:2021 (Road Vehicles Cybersecurity Engineering).
