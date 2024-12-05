@@ -75,7 +75,7 @@
   <p>📜 <strong>GRC Excellence:</strong> Aligned security with legal and organizational standards through Governance, Risk, and Compliance programs.</li>
   <p>🎤 <strong>Global Speaker and Thought Leader:</strong> Invited speaker at global forums like DSCI, ARAI, BIS, and IEEE.</p>
 </div>
-
+<!--
 <div align="center">
   <h2>📄 My Resume</h2>
   <p>You can view or download my resume by clicking the link below:</p>
@@ -85,7 +85,7 @@
     </button>
   </a>
 </div>
-
+-->
 
 <div align="left">
   <h2>🌱 I’m Currently Learning</h3>
